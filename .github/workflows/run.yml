@@ -1,36 +1,43 @@
 name: Daily Stock System
 
+permissions:
+  contents: write   # 🔥 VERY IMPORTANT (fixes your 403 error)
+
 on:
   schedule:
-    - cron: "0 18 * * *"  # runs daily at 18:00 UTC
-  workflow_dispatch:
+    - cron: "0 18 * * *"   # runs daily (UTC time)
+  workflow_dispatch:       # allow manual run
 
 jobs:
   run:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      # 1. Get your repo
+      - name: Checkout code
         uses: actions/checkout@v3
 
+      # 2. Setup Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
+      # 3. Install dependencies
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install requests pandas numpy yfinance beautifulsoup4
 
-      - name: Run system
+      # 4. Run your script
+      - name: Run Stock System
         run: |
-          cd scripts
-          python main.py
+          python scripts/main.py
 
+      # 5. Commit updated JSON (VERY IMPORTANT)
       - name: Commit output
         run: |
-          git config --global user.name "bot"
-          git config --global user.email "bot@github.com"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
           git add .
-          git commit -m "daily update" || echo "no changes"
+          git commit -m "📊 Daily stock update" || echo "No changes"
           git push

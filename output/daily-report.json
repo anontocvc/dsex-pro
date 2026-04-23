@@ -1,0 +1,4230 @@
+{
+  "top_bullish": [
+    {
+      "symbol": "BATASHOE",
+      "score": 10,
+      "confidence": 52.0
+    },
+    {
+      "symbol": "SHAHJABANK",
+      "score": 10,
+      "confidence": 76.0
+    },
+    {
+      "symbol": "SHYAMPSUG",
+      "score": 8.74,
+      "confidence": 53.9
+    },
+    {
+      "symbol": "WALTONHIL",
+      "score": 8.7,
+      "confidence": 65.6
+    },
+    {
+      "symbol": "AMBEEPHA",
+      "score": 8.63,
+      "confidence": 53.0
+    },
+    {
+      "symbol": "RENATA",
+      "score": 7.8,
+      "confidence": 58.4
+    },
+    {
+      "symbol": "PRAGATILIF",
+      "score": 7.67,
+      "confidence": 45.4
+    },
+    {
+      "symbol": "APEXFOODS",
+      "score": 7.6,
+      "confidence": 44.8
+    },
+    {
+      "symbol": "KAY&QUE",
+      "score": 7.54,
+      "confidence": 44.3
+    },
+    {
+      "symbol": "FINEFOODS",
+      "score": 7.43,
+      "confidence": 55.4
+    },
+    {
+      "symbol": "LINDEBD",
+      "score": 7.42,
+      "confidence": 55.4
+    },
+    {
+      "symbol": "KOHINOOR",
+      "score": 7.4,
+      "confidence": 55.2
+    },
+    {
+      "symbol": "PHARMAID",
+      "score": 7.3,
+      "confidence": 54.4
+    },
+    {
+      "symbol": "AMCL(PRAN)",
+      "score": 7.18,
+      "confidence": 53.4
+    },
+    {
+      "symbol": "GQBALLPEN",
+      "score": 6.94,
+      "confidence": 51.5
+    },
+    {
+      "symbol": "RENWICKJA",
+      "score": 6.77,
+      "confidence": 50.2
+    },
+    {
+      "symbol": "NTC",
+      "score": 6.74,
+      "confidence": 49.9
+    },
+    {
+      "symbol": "LIBRAINFU",
+      "score": 6.58,
+      "confidence": 48.6
+    },
+    {
+      "symbol": "RAHIMAFOOD",
+      "score": 6.57,
+      "confidence": 36.6
+    },
+    {
+      "symbol": "BEXIMCO",
+      "score": 6.53,
+      "confidence": 48.2
+    }
+  ],
+  "top_bearish": [
+    {
+      "symbol": "LRGLOBMF1",
+      "score": 2.18,
+      "confidence": 70.6
+    },
+    {
+      "symbol": "APOLOISPAT",
+      "score": 2.42,
+      "confidence": 56.6
+    },
+    {
+      "symbol": "PRIMEFIN",
+      "score": 2.44,
+      "confidence": 56.5
+    },
+    {
+      "symbol": "GOLDENSON",
+      "score": 2.46,
+      "confidence": 68.3
+    },
+    {
+      "symbol": "UNIONCAP",
+      "score": 2.51,
+      "confidence": 55.9
+    },
+    {
+      "symbol": "PHOENIXFIN",
+      "score": 2.55,
+      "confidence": 55.6
+    },
+    {
+      "symbol": "ICBEPMF1S1",
+      "score": 2.56,
+      "confidence": 55.5
+    },
+    {
+      "symbol": "MIDASFIN",
+      "score": 2.56,
+      "confidence": 67.5
+    },
+    {
+      "symbol": "TUNGHAI",
+      "score": 2.56,
+      "confidence": 55.5
+    },
+    {
+      "symbol": "SAIHAMTEX",
+      "score": 2.58,
+      "confidence": 55.4
+    },
+    {
+      "symbol": "TALLUSPIN",
+      "score": 2.58,
+      "confidence": 55.4
+    },
+    {
+      "symbol": "ALIF",
+      "score": 2.6,
+      "confidence": 55.2
+    },
+    {
+      "symbol": "FEKDIL",
+      "score": 2.6,
+      "confidence": 55.2
+    },
+    {
+      "symbol": "MIDLANDBNK",
+      "score": 2.6,
+      "confidence": 67.2
+    },
+    {
+      "symbol": "SHEPHERD",
+      "score": 2.63,
+      "confidence": 67.0
+    },
+    {
+      "symbol": "PRIME1ICBA",
+      "score": 2.65,
+      "confidence": 66.8
+    },
+    {
+      "symbol": "BBS",
+      "score": 2.67,
+      "confidence": 54.6
+    },
+    {
+      "symbol": "SILVAPHL",
+      "score": 2.67,
+      "confidence": 66.6
+    },
+    {
+      "symbol": "1STPRIMFMF",
+      "score": 2.68,
+      "confidence": 54.6
+    },
+    {
+      "symbol": "BDTHAI",
+      "score": 2.68,
+      "confidence": 66.6
+    }
+  ],
+  "high_impact": [
+    {
+      "symbol": "SHAHJABANK",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bullish setup",
+        "High confidence"
+      ],
+      "explanation": "Strong bullish momentum, high confidence setup"
+    },
+    {
+      "symbol": "AOL",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "EASTLAND",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "EPGL",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "GENNEXT",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "QUEENSOUTH",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ZAHINTEX",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "GENEXIL",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "FUWANGCER",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "BENGALWTL",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ICBAGRANI1",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "IFIC1STMF",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "AIBL1STIMF",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "GBBPOWER",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "PF1STMF",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SPCERAMICS",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ADVENT",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "FAMILYTEX",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "SAIHAMCOT",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "YPL",
+      "impact_score": 5,
+      "reasons": [
+        "Price movement",
+        "Strong bearish setup",
+        "High confidence"
+      ],
+      "explanation": "Bearish pressure, weak rsi signal"
+    }
+  ],
+  "all_stocks": [
+    {
+      "symbol": "BATASHOE",
+      "score": 10,
+      "signal": "STRONG_BUY",
+      "confidence": 52.0,
+      "risk": "LOW",
+      "price_change_pct": -1.83,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum"
+    },
+    {
+      "symbol": "SHAHJABANK",
+      "score": 10,
+      "signal": "STRONG_BUY",
+      "confidence": 76.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.14,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum, high confidence setup"
+    },
+    {
+      "symbol": "SHYAMPSUG",
+      "score": 8.74,
+      "signal": "STRONG_BUY",
+      "confidence": 53.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.76,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum"
+    },
+    {
+      "symbol": "WALTONHIL",
+      "score": 8.7,
+      "signal": "STRONG_BUY",
+      "confidence": 65.6,
+      "risk": "LOW",
+      "price_change_pct": -0.59,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum, healthy rsi strength"
+    },
+    {
+      "symbol": "AMBEEPHA",
+      "score": 8.63,
+      "signal": "STRONG_BUY",
+      "confidence": 53.0,
+      "risk": "LOW",
+      "price_change_pct": -1.14,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum"
+    },
+    {
+      "symbol": "RENATA",
+      "score": 7.8,
+      "signal": "BUY",
+      "confidence": 58.4,
+      "risk": "LOW",
+      "price_change_pct": -0.33,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum"
+    },
+    {
+      "symbol": "PRAGATILIF",
+      "score": 7.67,
+      "signal": "BUY",
+      "confidence": 45.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.88,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum, healthy rsi strength"
+    },
+    {
+      "symbol": "APEXFOODS",
+      "score": 7.6,
+      "signal": "BUY",
+      "confidence": 44.8,
+      "risk": "LOW",
+      "price_change_pct": -4.2,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum"
+    },
+    {
+      "symbol": "KAY&QUE",
+      "score": 7.54,
+      "signal": "BUY",
+      "confidence": 44.3,
+      "risk": "LOW",
+      "price_change_pct": -2.18,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum, healthy rsi strength"
+    },
+    {
+      "symbol": "FINEFOODS",
+      "score": 7.43,
+      "signal": "BUY",
+      "confidence": 55.4,
+      "risk": "LOW",
+      "price_change_pct": -0.24,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum"
+    },
+    {
+      "symbol": "LINDEBD",
+      "score": 7.42,
+      "signal": "BUY",
+      "confidence": 55.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.09,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum, healthy rsi strength"
+    },
+    {
+      "symbol": "KOHINOOR",
+      "score": 7.4,
+      "signal": "BUY",
+      "confidence": 55.2,
+      "risk": "LOW",
+      "price_change_pct": -1.57,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum, healthy rsi strength"
+    },
+    {
+      "symbol": "PHARMAID",
+      "score": 7.3,
+      "signal": "BUY",
+      "confidence": 54.4,
+      "risk": "LOW",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum, healthy rsi strength"
+    },
+    {
+      "symbol": "AMCL(PRAN)",
+      "score": 7.18,
+      "signal": "BUY",
+      "confidence": 53.4,
+      "risk": "LOW",
+      "price_change_pct": -0.28,
+      "volume_ratio": 1.0,
+      "explanation": "Strong bullish momentum"
+    },
+    {
+      "symbol": "GQBALLPEN",
+      "score": 6.94,
+      "signal": "BUY",
+      "confidence": 51.5,
+      "risk": "LOW",
+      "price_change_pct": -0.43,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, healthy rsi strength"
+    },
+    {
+      "symbol": "RENWICKJA",
+      "score": 6.77,
+      "signal": "BUY",
+      "confidence": 50.2,
+      "risk": "LOW",
+      "price_change_pct": -1.16,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, weak rsi signal"
+    },
+    {
+      "symbol": "NTC",
+      "score": 6.74,
+      "signal": "BUY",
+      "confidence": 49.9,
+      "risk": "LOW",
+      "price_change_pct": -1.3,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "LIBRAINFU",
+      "score": 6.58,
+      "signal": "BUY",
+      "confidence": 48.6,
+      "risk": "LOW",
+      "price_change_pct": -1.4,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, healthy rsi strength"
+    },
+    {
+      "symbol": "RAHIMAFOOD",
+      "score": 6.57,
+      "signal": "BUY",
+      "confidence": 36.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.52,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "BEXIMCO",
+      "score": 6.53,
+      "signal": "BUY",
+      "confidence": 48.2,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, healthy rsi strength"
+    },
+    {
+      "symbol": "BATBC",
+      "score": 6.45,
+      "signal": "NEUTRAL",
+      "confidence": 47.6,
+      "risk": "LOW",
+      "price_change_pct": -0.87,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "APEXSPINN",
+      "score": 6.34,
+      "signal": "NEUTRAL",
+      "confidence": 34.7,
+      "risk": "LOW",
+      "price_change_pct": -3.04,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, healthy rsi strength"
+    },
+    {
+      "symbol": "BANGAS",
+      "score": 6.16,
+      "signal": "NEUTRAL",
+      "confidence": 33.3,
+      "risk": "LOW",
+      "price_change_pct": -2.42,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "BDAUTOCA",
+      "score": 6.11,
+      "signal": "NEUTRAL",
+      "confidence": 32.9,
+      "risk": "LOW",
+      "price_change_pct": -5.58,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, healthy rsi strength"
+    },
+    {
+      "symbol": "MJLBD",
+      "score": 6.11,
+      "signal": "NEUTRAL",
+      "confidence": 44.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.45,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "GEMINISEA",
+      "score": 6.06,
+      "signal": "NEUTRAL",
+      "confidence": 32.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.68,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "IBNSINA",
+      "score": 5.97,
+      "signal": "NEUTRAL",
+      "confidence": 43.8,
+      "risk": "LOW",
+      "price_change_pct": -0.28,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "MONNOAGML",
+      "score": 5.86,
+      "signal": "NEUTRAL",
+      "confidence": 30.9,
+      "risk": "LOW",
+      "price_change_pct": -1.87,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, healthy rsi strength"
+    },
+    {
+      "symbol": "PADMAOIL",
+      "score": 5.86,
+      "signal": "NEUTRAL",
+      "confidence": 30.9,
+      "risk": "LOW",
+      "price_change_pct": -1.09,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "ACI",
+      "score": 5.85,
+      "signal": "NEUTRAL",
+      "confidence": 42.8,
+      "risk": "LOW",
+      "price_change_pct": -1.05,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "HAKKANIPUL",
+      "score": 5.83,
+      "signal": "NEUTRAL",
+      "confidence": 42.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.33,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "MONOSPOOL",
+      "score": 5.8,
+      "signal": "NEUTRAL",
+      "confidence": 30.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.64,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "JMISMDL",
+      "score": 5.77,
+      "signal": "NEUTRAL",
+      "confidence": 30.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.01,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, healthy rsi strength"
+    },
+    {
+      "symbol": "ORIONINFU",
+      "score": 5.75,
+      "signal": "NEUTRAL",
+      "confidence": 30.0,
+      "risk": "LOW",
+      "price_change_pct": -1.76,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "JAMUNAOIL",
+      "score": 5.64,
+      "signal": "NEUTRAL",
+      "confidence": 41.1,
+      "risk": "LOW",
+      "price_change_pct": -0.12,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "APEXFOOT",
+      "score": 5.63,
+      "signal": "NEUTRAL",
+      "confidence": 29.0,
+      "risk": "LOW",
+      "price_change_pct": -3.56,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, healthy rsi strength"
+    },
+    {
+      "symbol": "STANCERAM",
+      "score": 5.61,
+      "signal": "NEUTRAL",
+      "confidence": 28.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.4,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "HEIDELBCEM",
+      "score": 5.58,
+      "signal": "NEUTRAL",
+      "confidence": 28.6,
+      "risk": "LOW",
+      "price_change_pct": -2.76,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "ASIAINS",
+      "score": 5.51,
+      "signal": "NEUTRAL",
+      "confidence": 28.1,
+      "risk": "HIGH",
+      "price_change_pct": -3.97,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, healthy rsi strength"
+    },
+    {
+      "symbol": "CVOPRL",
+      "score": 4.45,
+      "signal": "SELL",
+      "confidence": 52.4,
+      "risk": "LOW",
+      "price_change_pct": -1.81,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, healthy rsi strength"
+    },
+    {
+      "symbol": "DULAMIACOT",
+      "score": 4.31,
+      "signal": "SELL",
+      "confidence": 41.5,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "GP",
+      "score": 4.28,
+      "signal": "SELL",
+      "confidence": 41.8,
+      "risk": "LOW",
+      "price_change_pct": -0.78,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "MPETROLEUM",
+      "score": 4.23,
+      "signal": "SELL",
+      "confidence": 42.2,
+      "risk": "LOW",
+      "price_change_pct": -0.89,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "HAMI",
+      "score": 4.19,
+      "signal": "SELL",
+      "confidence": 42.5,
+      "risk": "LOW",
+      "price_change_pct": -0.84,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "BDLAMPS",
+      "score": 4.15,
+      "signal": "SELL",
+      "confidence": 54.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.1,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend, healthy rsi strength"
+    },
+    {
+      "symbol": "SQURPHARMA",
+      "score": 4.14,
+      "signal": "SELL",
+      "confidence": 42.9,
+      "risk": "LOW",
+      "price_change_pct": -0.42,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "DUTCHBANGL",
+      "score": 4.03,
+      "signal": "SELL",
+      "confidence": 43.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.24,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "PTL",
+      "score": 4.02,
+      "signal": "SELL",
+      "confidence": 43.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.26,
+      "volume_ratio": 1.0,
+      "explanation": "Sideways/neutral trend"
+    },
+    {
+      "symbol": "DOMINAGE",
+      "score": 4.0,
+      "signal": "SELL",
+      "confidence": 44.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.51,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SONALIANSH",
+      "score": 3.99,
+      "signal": "SELL",
+      "confidence": 44.1,
+      "risk": "LOW",
+      "price_change_pct": -0.76,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "DSHGARME",
+      "score": 3.96,
+      "signal": "SELL",
+      "confidence": 44.3,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ACIFORMULA",
+      "score": 3.95,
+      "signal": "SELL",
+      "confidence": 44.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.06,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "JUTESPINN",
+      "score": 3.94,
+      "signal": "SELL",
+      "confidence": 56.5,
+      "risk": "LOW",
+      "price_change_pct": -0.24,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SONALIPAPR",
+      "score": 3.93,
+      "signal": "SELL",
+      "confidence": 44.6,
+      "risk": "LOW",
+      "price_change_pct": -1.78,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "BXPHARMA",
+      "score": 3.91,
+      "signal": "SELL",
+      "confidence": 44.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.92,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "WATACHEM",
+      "score": 3.87,
+      "signal": "SELL",
+      "confidence": 45.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.94,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "CONFIDCEM",
+      "score": 3.84,
+      "signal": "SELL",
+      "confidence": 45.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.8,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "OLYMPIC",
+      "score": 3.83,
+      "signal": "SELL",
+      "confidence": 45.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.21,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SLIPLC",
+      "score": 3.83,
+      "signal": "SELL",
+      "confidence": 57.4,
+      "risk": "HIGH",
+      "price_change_pct": -2.73,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ACMELAB",
+      "score": 3.82,
+      "signal": "SELL",
+      "confidence": 45.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.9,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BSC",
+      "score": 3.81,
+      "signal": "SELL",
+      "confidence": 45.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.04,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SAMATALETH",
+      "score": 3.8,
+      "signal": "SELL",
+      "confidence": 57.6,
+      "risk": "HIGH",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "BSCPLC",
+      "score": 3.79,
+      "signal": "SELL",
+      "confidence": 45.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.71,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BSRMLTD",
+      "score": 3.79,
+      "signal": "SELL",
+      "confidence": 45.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.72,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "RAHIMTEXT",
+      "score": 3.78,
+      "signal": "SELL",
+      "confidence": 45.8,
+      "risk": "LOW",
+      "price_change_pct": -2.55,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ZEALBANGLA",
+      "score": 3.76,
+      "signal": "SELL",
+      "confidence": 45.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.93,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ATLASBANG",
+      "score": 3.75,
+      "signal": "SELL",
+      "confidence": 46.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.27,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "DAFODILCOM",
+      "score": 3.74,
+      "signal": "SELL",
+      "confidence": 46.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.44,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BSRMSTEEL",
+      "score": 3.73,
+      "signal": "SELL",
+      "confidence": 46.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.71,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "PRAGATIINS",
+      "score": 3.69,
+      "signal": "SELL",
+      "confidence": 46.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.81,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SONARGAON",
+      "score": 3.68,
+      "signal": "SELL",
+      "confidence": 46.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.5,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SQUARETEXT",
+      "score": 3.68,
+      "signal": "SELL",
+      "confidence": 46.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.41,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "CITYGENINS",
+      "score": 3.67,
+      "signal": "SELL",
+      "confidence": 46.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.04,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PRIMEBANK",
+      "score": 3.67,
+      "signal": "SELL",
+      "confidence": 46.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.19,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "BNICL",
+      "score": 3.66,
+      "signal": "SELL",
+      "confidence": 46.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.99,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "NORTHERN",
+      "score": 3.65,
+      "signal": "SELL",
+      "confidence": 46.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.39,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ADNTEL",
+      "score": 3.64,
+      "signal": "SELL",
+      "confidence": 46.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.95,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "DELTALIFE",
+      "score": 3.64,
+      "signal": "SELL",
+      "confidence": 58.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.67,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ANWARGALV",
+      "score": 3.63,
+      "signal": "SELL",
+      "confidence": 47.0,
+      "risk": "HIGH",
+      "price_change_pct": -2.51,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "EHL",
+      "score": 3.61,
+      "signal": "SELL",
+      "confidence": 47.1,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PENINSULA",
+      "score": 3.61,
+      "signal": "SELL",
+      "confidence": 59.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.46,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "APEXTANRY",
+      "score": 3.59,
+      "signal": "SELL",
+      "confidence": 47.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.55,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "PUBALIBANK",
+      "score": 3.59,
+      "signal": "SELL",
+      "confidence": 47.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.55,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SAPORTL",
+      "score": 3.59,
+      "signal": "SELL",
+      "confidence": 47.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.23,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PRIMELIFE",
+      "score": 3.58,
+      "signal": "SELL",
+      "confidence": 59.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.28,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "TAMIJTEX",
+      "score": 3.58,
+      "signal": "SELL",
+      "confidence": 47.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.18,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BRACBANK",
+      "score": 3.57,
+      "signal": "SELL",
+      "confidence": 47.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "LHB",
+      "score": 3.57,
+      "signal": "SELL",
+      "confidence": 47.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.4,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PURABIGEN",
+      "score": 3.57,
+      "signal": "SELL",
+      "confidence": 59.4,
+      "risk": "HIGH",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "AL-HAJTEX",
+      "score": 3.56,
+      "signal": "SELL",
+      "confidence": 47.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.61,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ARAMIT",
+      "score": 3.56,
+      "signal": "SELL",
+      "confidence": 47.5,
+      "risk": "LOW",
+      "price_change_pct": -3.99,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "HWAWELLTEX",
+      "score": 3.55,
+      "signal": "SELL",
+      "confidence": 47.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.43,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ISLAMIINS",
+      "score": 3.55,
+      "signal": "SELL",
+      "confidence": 47.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.65,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "KARNAPHULI",
+      "score": 3.55,
+      "signal": "SELL",
+      "confidence": 47.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.02,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ENVOYTEX",
+      "score": 3.54,
+      "signal": "SELL",
+      "confidence": 47.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.6,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PEOPLESINS",
+      "score": 3.53,
+      "signal": "SELL",
+      "confidence": 47.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.73,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "NCCBANK",
+      "score": 3.52,
+      "signal": "SELL",
+      "confidence": 47.8,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "RANFOUNDRY",
+      "score": 3.51,
+      "signal": "SELL",
+      "confidence": 47.9,
+      "risk": "LOW",
+      "price_change_pct": -1.24,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SINGERBD",
+      "score": 3.51,
+      "signal": "SELL",
+      "confidence": 59.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.57,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ASIATICLAB",
+      "score": 3.5,
+      "signal": "SELL",
+      "confidence": 48.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.79,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "REPUBLIC",
+      "score": 3.5,
+      "signal": "SELL",
+      "confidence": 60.0,
+      "risk": "HIGH",
+      "price_change_pct": -3.16,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ICB",
+      "score": 3.49,
+      "signal": "SELL",
+      "confidence": 48.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.04,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "LEGACYFOOT",
+      "score": 3.49,
+      "signal": "SELL",
+      "confidence": 48.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.19,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "UPGDCL",
+      "score": 3.49,
+      "signal": "SELL",
+      "confidence": 60.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.35,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "CITYBANK",
+      "score": 3.48,
+      "signal": "SELL",
+      "confidence": 48.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.63,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "JAMUNABANK",
+      "score": 3.47,
+      "signal": "SELL",
+      "confidence": 48.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.43,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SEAPEARL",
+      "score": 3.46,
+      "signal": "SELL",
+      "confidence": 48.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.07,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "DBH",
+      "score": 3.45,
+      "signal": "SELL",
+      "confidence": 48.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.03,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "EBL",
+      "score": 3.45,
+      "signal": "SELL",
+      "confidence": 48.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.37,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "NATLIFEINS",
+      "score": 3.45,
+      "signal": "SELL",
+      "confidence": 48.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.85,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "RINGSHINE",
+      "score": 3.45,
+      "signal": "SELL",
+      "confidence": 48.4,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SIPLC",
+      "score": 3.45,
+      "signal": "SELL",
+      "confidence": 60.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.01,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "EASTERNINS",
+      "score": 3.43,
+      "signal": "SELL",
+      "confidence": 48.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.36,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "LOVELLO",
+      "score": 3.42,
+      "signal": "SELL",
+      "confidence": 48.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.55,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MIRAKHTER",
+      "score": 3.41,
+      "signal": "SELL",
+      "confidence": 48.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.78,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ROBI",
+      "score": 3.4,
+      "signal": "SELL",
+      "confidence": 48.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.69,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SAMORITA",
+      "score": 3.4,
+      "signal": "SELL",
+      "confidence": 48.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.26,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MEGHNACEM",
+      "score": 3.39,
+      "signal": "SELL",
+      "confidence": 60.9,
+      "risk": "HIGH",
+      "price_change_pct": -1.22,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "MONNOCERA",
+      "score": 3.39,
+      "signal": "SELL",
+      "confidence": 48.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.21,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BESTHLDNG",
+      "score": 3.38,
+      "signal": "SELL",
+      "confidence": 49.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.76,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ICBAMCL2ND",
+      "score": 3.37,
+      "signal": "SELL",
+      "confidence": 49.0,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ITC",
+      "score": 3.36,
+      "signal": "SELL",
+      "confidence": 49.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.22,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "RUPALILIFE",
+      "score": 3.36,
+      "signal": "SELL",
+      "confidence": 61.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.86,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SPCL",
+      "score": 3.36,
+      "signal": "SELL",
+      "confidence": 61.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.14,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "PLFSL",
+      "score": 3.34,
+      "signal": "SELL",
+      "confidence": 49.3,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PREMIERLEA",
+      "score": 3.34,
+      "signal": "SELL",
+      "confidence": 49.3,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "IFILISLMF1",
+      "score": 3.33,
+      "signal": "SELL",
+      "confidence": 49.4,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MEGHNAPET",
+      "score": 3.33,
+      "signal": "SELL",
+      "confidence": 49.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.95,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "TECHNODRUG",
+      "score": 3.33,
+      "signal": "SELL",
+      "confidence": 49.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.84,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "UNIQUEHRL",
+      "score": 3.33,
+      "signal": "SELL",
+      "confidence": 61.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.31,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "ECABLES",
+      "score": 3.32,
+      "signal": "SELL",
+      "confidence": 61.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.41,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "NAVANAPHAR",
+      "score": 3.32,
+      "signal": "SELL",
+      "confidence": 49.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.29,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PREMIERCEM",
+      "score": 3.32,
+      "signal": "SELL",
+      "confidence": 49.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.26,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BEACONPHAR",
+      "score": 3.31,
+      "signal": "SELL",
+      "confidence": 61.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.65,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "PIONEERINS",
+      "score": 3.31,
+      "signal": "SELL",
+      "confidence": 49.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -6.01,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SKTRIMS",
+      "score": 3.31,
+      "signal": "SELL",
+      "confidence": 61.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.04,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "NHFIL",
+      "score": 3.3,
+      "signal": "SELL",
+      "confidence": 49.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.43,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "MEGHNALIFE",
+      "score": 3.29,
+      "signal": "SELL",
+      "confidence": 49.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.9,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "NRBBANK",
+      "score": 3.29,
+      "signal": "SELL",
+      "confidence": 49.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.45,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BDCOM",
+      "score": 3.28,
+      "signal": "SELL",
+      "confidence": 49.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.98,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "JHRML",
+      "score": 3.28,
+      "signal": "SELL",
+      "confidence": 49.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.68,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "POPULARLIF",
+      "score": 3.28,
+      "signal": "SELL",
+      "confidence": 49.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.71,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SUNLIFEINS",
+      "score": 3.28,
+      "signal": "SELL",
+      "confidence": 49.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.68,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "CROWNCEMNT",
+      "score": 3.27,
+      "signal": "SELL",
+      "confidence": 61.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.8,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "DESCO",
+      "score": 3.27,
+      "signal": "SELL",
+      "confidence": 49.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.43,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "RUNNERAUTO",
+      "score": 3.27,
+      "signal": "SELL",
+      "confidence": 49.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.6,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ICB3RDNRB",
+      "score": 3.26,
+      "signal": "SELL",
+      "confidence": 49.9,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "INDEXAGRO",
+      "score": 3.26,
+      "signal": "SELL",
+      "confidence": 61.9,
+      "risk": "HIGH",
+      "price_change_pct": -2.19,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "STANDARINS",
+      "score": 3.26,
+      "signal": "SELL",
+      "confidence": 61.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.82,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ALARABANK",
+      "score": 3.25,
+      "signal": "SELL",
+      "confidence": 50.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.94,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ARGONDENIM",
+      "score": 3.25,
+      "signal": "SELL",
+      "confidence": 50.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.14,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "DHAKABANK",
+      "score": 3.25,
+      "signal": "SELL",
+      "confidence": 50.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.65,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ESQUIRENIT",
+      "score": 3.25,
+      "signal": "SELL",
+      "confidence": 50.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.95,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "HFL",
+      "score": 3.25,
+      "signal": "SELL",
+      "confidence": 50.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.42,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "IDLC",
+      "score": 3.24,
+      "signal": "SELL",
+      "confidence": 50.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.54,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ISLAMIBANK",
+      "score": 3.24,
+      "signal": "SELL",
+      "confidence": 50.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.08,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "RELIANCINS",
+      "score": 3.24,
+      "signal": "SELL",
+      "confidence": 50.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.95,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SBACBANK",
+      "score": 3.24,
+      "signal": "SELL",
+      "confidence": 50.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.47,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PHENIXINS",
+      "score": 3.23,
+      "signal": "SELL",
+      "confidence": 50.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.27,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "CENTRALPHL",
+      "score": 3.22,
+      "signal": "SELL",
+      "confidence": 50.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.22,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "DOREENPWR",
+      "score": 3.22,
+      "signal": "SELL",
+      "confidence": 50.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.39,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PARAMOUNT",
+      "score": 3.22,
+      "signal": "SELL",
+      "confidence": 50.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.98,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "INTRACO",
+      "score": 3.21,
+      "signal": "SELL",
+      "confidence": 50.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.11,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "RSRMSTEEL",
+      "score": 3.21,
+      "signal": "SELL",
+      "confidence": 50.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.27,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SALAMCRST",
+      "score": 3.21,
+      "signal": "SELL",
+      "confidence": 50.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.84,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "TILIL",
+      "score": 3.21,
+      "signal": "SELL",
+      "confidence": 50.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.77,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "DHAKAINS",
+      "score": 3.2,
+      "signal": "SELL",
+      "confidence": 50.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.7,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "QUASEMIND",
+      "score": 3.2,
+      "signal": "SELL",
+      "confidence": 50.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.5,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MEGCONMILK",
+      "score": 3.19,
+      "signal": "SELL",
+      "confidence": 50.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.2,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "WMSHIPYARD",
+      "score": 3.19,
+      "signal": "SELL",
+      "confidence": 62.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.11,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "PRIMEINSUR",
+      "score": 3.18,
+      "signal": "SELL",
+      "confidence": 50.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.19,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SALVO",
+      "score": 3.18,
+      "signal": "SELL",
+      "confidence": 50.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.17,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "UTTARABANK",
+      "score": 3.18,
+      "signal": "SELL",
+      "confidence": 50.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.4,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BANKASIA",
+      "score": 3.17,
+      "signal": "SELL",
+      "confidence": 50.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.38,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BBSCABLES",
+      "score": 3.17,
+      "signal": "SELL",
+      "confidence": 50.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.88,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "GREENDELT",
+      "score": 3.17,
+      "signal": "SELL",
+      "confidence": 50.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ONEBANKPLC",
+      "score": 3.17,
+      "signal": "SELL",
+      "confidence": 62.6,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "SINOBANGLA",
+      "score": 3.17,
+      "signal": "SELL",
+      "confidence": 50.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.53,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "AIL",
+      "score": 3.16,
+      "signal": "SELL",
+      "confidence": 50.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.72,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "STYLECRAFT",
+      "score": 3.16,
+      "signal": "SELL",
+      "confidence": 62.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.75,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "BARKAPOWER",
+      "score": 3.15,
+      "signal": "SELL",
+      "confidence": 50.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.25,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BDFINANCE",
+      "score": 3.15,
+      "signal": "SELL",
+      "confidence": 50.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.75,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "NORTHRNINS",
+      "score": 3.15,
+      "signal": "SELL",
+      "confidence": 50.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.83,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "RELIANCE1",
+      "score": 3.15,
+      "signal": "SELL",
+      "confidence": 50.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.68,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "AGNISYSL",
+      "score": 3.14,
+      "signal": "SELL",
+      "confidence": 50.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.09,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MALEKSPIN",
+      "score": 3.14,
+      "signal": "SELL",
+      "confidence": 50.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.44,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "NAVANACNG",
+      "score": 3.14,
+      "signal": "SELL",
+      "confidence": 62.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.43,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ORIONPHARM",
+      "score": 3.14,
+      "signal": "SELL",
+      "confidence": 50.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.43,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "TAKAFULINS",
+      "score": 3.14,
+      "signal": "SELL",
+      "confidence": 50.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.77,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "CRYSTALINS",
+      "score": 3.13,
+      "signal": "SELL",
+      "confidence": 63.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.66,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "GHCL",
+      "score": 3.12,
+      "signal": "SELL",
+      "confidence": 51.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.58,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "KBPPWBIL",
+      "score": 3.12,
+      "signal": "SELL",
+      "confidence": 51.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.55,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SILCOPHL",
+      "score": 3.12,
+      "signal": "SELL",
+      "confidence": 51.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.31,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "GLOBALINS",
+      "score": 3.11,
+      "signal": "SELL",
+      "confidence": 63.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.37,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "IBP",
+      "score": 3.11,
+      "signal": "SELL",
+      "confidence": 51.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.75,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ILFSL",
+      "score": 3.11,
+      "signal": "SELL",
+      "confidence": 51.1,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ISNLTD",
+      "score": 3.11,
+      "signal": "SELL",
+      "confidence": 51.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.47,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MATINSPINN",
+      "score": 3.11,
+      "signal": "SELL",
+      "confidence": 63.1,
+      "risk": "HIGH",
+      "price_change_pct": -1.47,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "MITHUNKNIT",
+      "score": 3.11,
+      "signal": "SELL",
+      "confidence": 51.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.55,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "UNITEDINS",
+      "score": 3.11,
+      "signal": "SELL",
+      "confidence": 51.1,
+      "risk": "HIGH",
+      "price_change_pct": -3.29,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ACTIVEFINE",
+      "score": 3.1,
+      "signal": "SELL",
+      "confidence": 51.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.47,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "OIMEX",
+      "score": 3.1,
+      "signal": "SELL",
+      "confidence": 51.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.22,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "TRUSTBANK",
+      "score": 3.1,
+      "signal": "SELL",
+      "confidence": 63.2,
+      "risk": "HIGH",
+      "price_change_pct": -0.56,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "UNIONINS",
+      "score": 3.1,
+      "signal": "SELL",
+      "confidence": 51.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.75,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "UNITEDFIN",
+      "score": 3.1,
+      "signal": "SELL",
+      "confidence": 51.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.8,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BAYLEASING",
+      "score": 3.09,
+      "signal": "SELL",
+      "confidence": 51.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BDWELDING",
+      "score": 3.09,
+      "signal": "SELL",
+      "confidence": 51.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.77,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "DACCADYE",
+      "score": 3.09,
+      "signal": "SELL",
+      "confidence": 51.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.88,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "EMERALDOIL",
+      "score": 3.09,
+      "signal": "SELL",
+      "confidence": 51.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.27,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "IPDC",
+      "score": 3.09,
+      "signal": "SELL",
+      "confidence": 51.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.03,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MHSML",
+      "score": 3.09,
+      "signal": "SELL",
+      "confidence": 51.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.19,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MIRACLEIND",
+      "score": 3.09,
+      "signal": "SELL",
+      "confidence": 51.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.36,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "USMANIAGL",
+      "score": 3.09,
+      "signal": "SELL",
+      "confidence": 51.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.15,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MBL1STMF",
+      "score": 3.08,
+      "signal": "SELL",
+      "confidence": 63.4,
+      "risk": "HIGH",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "AAMRATECH",
+      "score": 3.07,
+      "signal": "SELL",
+      "confidence": 51.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.9,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ICBIBANK",
+      "score": 3.07,
+      "signal": "SELL",
+      "confidence": 51.4,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "POWERGRID",
+      "score": 3.07,
+      "signal": "SELL",
+      "confidence": 51.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.25,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PROGRESLIF",
+      "score": 3.07,
+      "signal": "SELL",
+      "confidence": 51.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.09,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "UCB",
+      "score": 3.07,
+      "signal": "SELL",
+      "confidence": 51.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.15,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BEACHHATCH",
+      "score": 3.06,
+      "signal": "SELL",
+      "confidence": 63.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.96,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "EIL",
+      "score": 3.06,
+      "signal": "SELL",
+      "confidence": 51.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.73,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "NITOLINS",
+      "score": 3.06,
+      "signal": "SELL",
+      "confidence": 51.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.23,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "POPULAR1MF",
+      "score": 3.06,
+      "signal": "SELL",
+      "confidence": 51.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "UTTARAFIN",
+      "score": 3.06,
+      "signal": "SELL",
+      "confidence": 63.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.5,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "EGEN",
+      "score": 3.05,
+      "signal": "SELL",
+      "confidence": 51.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.51,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "FEDERALINS",
+      "score": 3.05,
+      "signal": "SELL",
+      "confidence": 51.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.29,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "KDSALTD",
+      "score": 3.05,
+      "signal": "SELL",
+      "confidence": 51.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.67,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "LRBDL",
+      "score": 3.05,
+      "signal": "SELL",
+      "confidence": 63.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.83,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ASIAPACINS",
+      "score": 3.04,
+      "signal": "SELL",
+      "confidence": 51.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.9,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "FBFIF",
+      "score": 3.04,
+      "signal": "SELL",
+      "confidence": 51.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "HRTEX",
+      "score": 3.04,
+      "signal": "SELL",
+      "confidence": 51.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.08,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BPML",
+      "score": 3.03,
+      "signal": "SELL",
+      "confidence": 51.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.51,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "LANKABAFIN",
+      "score": 3.03,
+      "signal": "SELL",
+      "confidence": 63.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.38,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "MONNOFABR",
+      "score": 3.03,
+      "signal": "SELL",
+      "confidence": 51.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.69,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "TOSRIFA",
+      "score": 3.03,
+      "signal": "SELL",
+      "confidence": 51.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.83,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "AMANFEED",
+      "score": 3.02,
+      "signal": "SELL",
+      "confidence": 63.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.53,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "ANLIMAYARN",
+      "score": 3.02,
+      "signal": "SELL",
+      "confidence": 51.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.83,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "FORTUNE",
+      "score": 3.02,
+      "signal": "SELL",
+      "confidence": 63.8,
+      "risk": "HIGH",
+      "price_change_pct": -2.11,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "NTLTUBES",
+      "score": 3.02,
+      "signal": "SELL",
+      "confidence": 51.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.52,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SSSTEEL",
+      "score": 3.02,
+      "signal": "SELL",
+      "confidence": 51.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.92,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "CNATEX",
+      "score": 3.01,
+      "signal": "SELL",
+      "confidence": 51.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.7,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PADMALIFE",
+      "score": 3.01,
+      "signal": "SELL",
+      "confidence": 51.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.73,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SIMTEX",
+      "score": 3.01,
+      "signal": "SELL",
+      "confidence": 51.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.91,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "GPHISPAT",
+      "score": 3.0,
+      "signal": "SELL",
+      "confidence": 52.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.05,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "KPPL",
+      "score": 3.0,
+      "signal": "SELL",
+      "confidence": 52.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.58,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MAGURAPLEX",
+      "score": 3.0,
+      "signal": "SELL",
+      "confidence": 64.0,
+      "risk": "HIGH",
+      "price_change_pct": -2.85,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "RUPALIINS",
+      "score": 3.0,
+      "signal": "SELL",
+      "confidence": 52.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.04,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SEMLFBSLGF",
+      "score": 3.0,
+      "signal": "SELL",
+      "confidence": 52.0,
+      "risk": "MEDIUM",
+      "price_change_pct": 0.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "AFTABAUTO",
+      "score": 2.99,
+      "signal": "STRONG_SELL",
+      "confidence": 52.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.08,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "DELTASPINN",
+      "score": 2.99,
+      "signal": "STRONG_SELL",
+      "confidence": 52.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.03,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MERCANBANK",
+      "score": 2.99,
+      "signal": "STRONG_SELL",
+      "confidence": 52.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.14,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PREMIERBAN",
+      "score": 2.99,
+      "signal": "STRONG_SELL",
+      "confidence": 52.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.04,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "BGIC",
+      "score": 2.98,
+      "signal": "STRONG_SELL",
+      "confidence": 52.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.37,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BPPL",
+      "score": 2.98,
+      "signal": "STRONG_SELL",
+      "confidence": 52.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.85,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "DBH1STMF",
+      "score": 2.98,
+      "signal": "STRONG_SELL",
+      "confidence": 52.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.08,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "GRAMEENS2",
+      "score": 2.98,
+      "signal": "STRONG_SELL",
+      "confidence": 52.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -0.8,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "KPCL",
+      "score": 2.98,
+      "signal": "STRONG_SELL",
+      "confidence": 52.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.8,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "CAPMBDBLMF",
+      "score": 2.97,
+      "signal": "STRONG_SELL",
+      "confidence": 52.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.91,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "KEYACOSMET",
+      "score": 2.97,
+      "signal": "STRONG_SELL",
+      "confidence": 52.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.04,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PROVATIINS",
+      "score": 2.97,
+      "signal": "STRONG_SELL",
+      "confidence": 52.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.9,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SHASHADNIM",
+      "score": 2.97,
+      "signal": "STRONG_SELL",
+      "confidence": 64.2,
+      "risk": "HIGH",
+      "price_change_pct": -1.96,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "NRBCBANK",
+      "score": 2.96,
+      "signal": "STRONG_SELL",
+      "confidence": 64.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.37,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "INTECH",
+      "score": 2.95,
+      "signal": "STRONG_SELL",
+      "confidence": 52.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.48,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "1JANATAMF",
+      "score": 2.94,
+      "signal": "STRONG_SELL",
+      "confidence": 52.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ETL",
+      "score": 2.94,
+      "signal": "STRONG_SELL",
+      "confidence": 52.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.39,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "KTL",
+      "score": 2.94,
+      "signal": "STRONG_SELL",
+      "confidence": 64.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.97,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SANDHANINS",
+      "score": 2.94,
+      "signal": "STRONG_SELL",
+      "confidence": 52.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.37,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ABBANK",
+      "score": 2.93,
+      "signal": "STRONG_SELL",
+      "confidence": 52.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.67,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "GLDNJMF",
+      "score": 2.93,
+      "signal": "STRONG_SELL",
+      "confidence": 52.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.17,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "NPOLYMER",
+      "score": 2.93,
+      "signal": "STRONG_SELL",
+      "confidence": 52.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.28,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "CENTRALINS",
+      "score": 2.92,
+      "signal": "STRONG_SELL",
+      "confidence": 64.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -6.16,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "CLICL",
+      "score": 2.92,
+      "signal": "STRONG_SELL",
+      "confidence": 64.6,
+      "risk": "HIGH",
+      "price_change_pct": -3.89,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "PDL",
+      "score": 2.92,
+      "signal": "STRONG_SELL",
+      "confidence": 64.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.45,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SUMITPOWER",
+      "score": 2.92,
+      "signal": "STRONG_SELL",
+      "confidence": 52.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.43,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ICICL",
+      "score": 2.91,
+      "signal": "STRONG_SELL",
+      "confidence": 52.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.93,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MTB",
+      "score": 2.91,
+      "signal": "STRONG_SELL",
+      "confidence": 52.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.52,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "STANDBANKL",
+      "score": 2.91,
+      "signal": "STRONG_SELL",
+      "confidence": 64.7,
+      "risk": "HIGH",
+      "price_change_pct": -1.89,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "BIFC",
+      "score": 2.9,
+      "signal": "STRONG_SELL",
+      "confidence": 52.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.64,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "FARCHEM",
+      "score": 2.9,
+      "signal": "STRONG_SELL",
+      "confidence": 64.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.59,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "IFADAUTOS",
+      "score": 2.9,
+      "signal": "STRONG_SELL",
+      "confidence": 64.8,
+      "risk": "HIGH",
+      "price_change_pct": -2.94,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "NCCBLMF1",
+      "score": 2.9,
+      "signal": "STRONG_SELL",
+      "confidence": 52.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.22,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "RAKCERAMIC",
+      "score": 2.9,
+      "signal": "STRONG_SELL",
+      "confidence": 64.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.42,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ACFL",
+      "score": 2.89,
+      "signal": "STRONG_SELL",
+      "confidence": 52.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.19,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "CAPMIBBLMF",
+      "score": 2.89,
+      "signal": "STRONG_SELL",
+      "confidence": 52.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.4,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "DSSL",
+      "score": 2.89,
+      "signal": "STRONG_SELL",
+      "confidence": 52.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.92,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "EBL1STMF",
+      "score": 2.89,
+      "signal": "STRONG_SELL",
+      "confidence": 52.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PRIMETEX",
+      "score": 2.89,
+      "signal": "STRONG_SELL",
+      "confidence": 52.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.45,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SHARPIND",
+      "score": 2.89,
+      "signal": "STRONG_SELL",
+      "confidence": 52.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.98,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "AAMRANET",
+      "score": 2.88,
+      "signal": "STRONG_SELL",
+      "confidence": 53.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.49,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "AOL",
+      "score": 2.88,
+      "signal": "STRONG_SELL",
+      "confidence": 65.0,
+      "risk": "HIGH",
+      "price_change_pct": -1.17,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "MLDYEING",
+      "score": 2.88,
+      "signal": "STRONG_SELL",
+      "confidence": 53.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.33,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "RUPALIBANK",
+      "score": 2.88,
+      "signal": "STRONG_SELL",
+      "confidence": 53.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.96,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "EASTLAND",
+      "score": 2.87,
+      "signal": "STRONG_SELL",
+      "confidence": 65.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.29,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "EPGL",
+      "score": 2.87,
+      "signal": "STRONG_SELL",
+      "confidence": 65.0,
+      "risk": "HIGH",
+      "price_change_pct": -2.94,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ICBSONALI1",
+      "score": 2.87,
+      "signal": "STRONG_SELL",
+      "confidence": 53.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.08,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "TITASGAS",
+      "score": 2.87,
+      "signal": "STRONG_SELL",
+      "confidence": 53.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.74,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BDTHAIFOOD",
+      "score": 2.86,
+      "signal": "STRONG_SELL",
+      "confidence": 53.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.21,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "FAREASTLIF",
+      "score": 2.86,
+      "signal": "STRONG_SELL",
+      "confidence": 53.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.24,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "GENNEXT",
+      "score": 2.86,
+      "signal": "STRONG_SELL",
+      "confidence": 65.1,
+      "risk": "HIGH",
+      "price_change_pct": -2.86,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "QUEENSOUTH",
+      "score": 2.86,
+      "signal": "STRONG_SELL",
+      "confidence": 65.1,
+      "risk": "HIGH",
+      "price_change_pct": -3.2,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SEMLIBBLSF",
+      "score": 2.86,
+      "signal": "STRONG_SELL",
+      "confidence": 53.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.61,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ZAHEENSPIN",
+      "score": 2.86,
+      "signal": "STRONG_SELL",
+      "confidence": 53.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.45,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ZAHINTEX",
+      "score": 2.86,
+      "signal": "STRONG_SELL",
+      "confidence": 65.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.67,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "AGRANINS",
+      "score": 2.85,
+      "signal": "STRONG_SELL",
+      "confidence": 53.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -7.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "AZIZPIPES",
+      "score": 2.85,
+      "signal": "STRONG_SELL",
+      "confidence": 53.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.45,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "FUWANGFOOD",
+      "score": 2.85,
+      "signal": "STRONG_SELL",
+      "confidence": 53.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.88,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "GENEXIL",
+      "score": 2.85,
+      "signal": "STRONG_SELL",
+      "confidence": 65.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.52,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MEGHNAINS",
+      "score": 2.85,
+      "signal": "STRONG_SELL",
+      "confidence": 53.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -6.05,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SOUTHEASTB",
+      "score": 2.85,
+      "signal": "STRONG_SELL",
+      "confidence": 53.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.15,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "FAREASTFIN",
+      "score": 2.83,
+      "signal": "STRONG_SELL",
+      "confidence": 53.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -7.41,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "FUWANGCER",
+      "score": 2.83,
+      "signal": "STRONG_SELL",
+      "confidence": 65.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.82,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "MERCINS",
+      "score": 2.83,
+      "signal": "STRONG_SELL",
+      "confidence": 53.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.1,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "NFML",
+      "score": 2.83,
+      "signal": "STRONG_SELL",
+      "confidence": 53.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.63,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ALLTEX",
+      "score": 2.82,
+      "signal": "STRONG_SELL",
+      "confidence": 53.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.16,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "DGIC",
+      "score": 2.82,
+      "signal": "STRONG_SELL",
+      "confidence": 53.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.91,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MAKSONSPIN",
+      "score": 2.82,
+      "signal": "STRONG_SELL",
+      "confidence": 53.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.33,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "RDFOOD",
+      "score": 2.82,
+      "signal": "STRONG_SELL",
+      "confidence": 53.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.82,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "BENGALWTL",
+      "score": 2.81,
+      "signal": "STRONG_SELL",
+      "confidence": 65.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.24,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "FIRSTFIN",
+      "score": 2.81,
+      "signal": "STRONG_SELL",
+      "confidence": 53.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "GHAIL",
+      "score": 2.81,
+      "signal": "STRONG_SELL",
+      "confidence": 53.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.48,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "AFCAGRO",
+      "score": 2.8,
+      "signal": "STRONG_SELL",
+      "confidence": 53.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.9,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ACMEPL",
+      "score": 2.79,
+      "signal": "STRONG_SELL",
+      "confidence": 53.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.51,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "FASFIN",
+      "score": 2.79,
+      "signal": "STRONG_SELL",
+      "confidence": 53.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.57,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "OAL",
+      "score": 2.79,
+      "signal": "STRONG_SELL",
+      "confidence": 53.7,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "CAPITECGBF",
+      "score": 2.78,
+      "signal": "STRONG_SELL",
+      "confidence": 53.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.78,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ICBAGRANI1",
+      "score": 2.78,
+      "signal": "STRONG_SELL",
+      "confidence": 65.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.99,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "IFIC",
+      "score": 2.78,
+      "signal": "STRONG_SELL",
+      "confidence": 53.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.92,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "IFIC1STMF",
+      "score": 2.78,
+      "signal": "STRONG_SELL",
+      "confidence": 65.8,
+      "risk": "HIGH",
+      "price_change_pct": -2.56,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "NBL",
+      "score": 2.78,
+      "signal": "STRONG_SELL",
+      "confidence": 53.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.35,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "AIBL1STIMF",
+      "score": 2.77,
+      "signal": "STRONG_SELL",
+      "confidence": 65.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.44,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "EBLNRBMF",
+      "score": 2.77,
+      "signal": "STRONG_SELL",
+      "confidence": 53.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "NEWLINE",
+      "score": 2.77,
+      "signal": "STRONG_SELL",
+      "confidence": 53.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.39,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "VAMLRBBF",
+      "score": 2.77,
+      "signal": "STRONG_SELL",
+      "confidence": 53.8,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.23,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "CONTININS",
+      "score": 2.76,
+      "signal": "STRONG_SELL",
+      "confidence": 53.9,
+      "risk": "HIGH",
+      "price_change_pct": -5.48,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "GBBPOWER",
+      "score": 2.76,
+      "signal": "STRONG_SELL",
+      "confidence": 65.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.27,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "PF1STMF",
+      "score": 2.76,
+      "signal": "STRONG_SELL",
+      "confidence": 65.9,
+      "risk": "HIGH",
+      "price_change_pct": -5.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SICL",
+      "score": 2.76,
+      "signal": "STRONG_SELL",
+      "confidence": 53.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.47,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SPCERAMICS",
+      "score": 2.76,
+      "signal": "STRONG_SELL",
+      "confidence": 65.9,
+      "risk": "HIGH",
+      "price_change_pct": -5.07,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SAFKOSPINN",
+      "score": 2.75,
+      "signal": "STRONG_SELL",
+      "confidence": 54.0,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.89,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ABB1STMF",
+      "score": 2.74,
+      "signal": "STRONG_SELL",
+      "confidence": 54.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.94,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ADVENT",
+      "score": 2.74,
+      "signal": "STRONG_SELL",
+      "confidence": 66.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -1.41,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "FAMILYTEX",
+      "score": 2.74,
+      "signal": "STRONG_SELL",
+      "confidence": 66.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.03,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "SHURWID",
+      "score": 2.74,
+      "signal": "STRONG_SELL",
+      "confidence": 54.1,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.08,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "COPPERTECH",
+      "score": 2.73,
+      "signal": "STRONG_SELL",
+      "confidence": 54.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.7,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "NAHEEACP",
+      "score": 2.73,
+      "signal": "STRONG_SELL",
+      "confidence": 54.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -15.17,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "SAIHAMCOT",
+      "score": 2.73,
+      "signal": "STRONG_SELL",
+      "confidence": 66.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.68,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SONARBAINS",
+      "score": 2.73,
+      "signal": "STRONG_SELL",
+      "confidence": 54.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -7.14,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "GREENDELMF",
+      "score": 2.72,
+      "signal": "STRONG_SELL",
+      "confidence": 54.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.86,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "YPL",
+      "score": 2.72,
+      "signal": "STRONG_SELL",
+      "confidence": 66.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.78,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "ARAMITCEM",
+      "score": 2.71,
+      "signal": "STRONG_SELL",
+      "confidence": 66.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.83,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "NURANI",
+      "score": 2.71,
+      "signal": "STRONG_SELL",
+      "confidence": 54.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.03,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SAIFPOWER",
+      "score": 2.71,
+      "signal": "STRONG_SELL",
+      "confidence": 66.3,
+      "risk": "MEDIUM",
+      "price_change_pct": -2.86,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "DESHBANDHU",
+      "score": 2.7,
+      "signal": "STRONG_SELL",
+      "confidence": 54.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.7,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "EXIM1STMF",
+      "score": 2.7,
+      "signal": "STRONG_SELL",
+      "confidence": 54.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ISLAMICFIN",
+      "score": 2.7,
+      "signal": "STRONG_SELL",
+      "confidence": 54.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.41,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "PHPMF1",
+      "score": 2.7,
+      "signal": "STRONG_SELL",
+      "confidence": 54.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.03,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "VFSTDL",
+      "score": 2.7,
+      "signal": "STRONG_SELL",
+      "confidence": 54.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.85,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "JANATAINS",
+      "score": 2.69,
+      "signal": "STRONG_SELL",
+      "confidence": 66.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.25,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "REGENTTEX",
+      "score": 2.69,
+      "signal": "STRONG_SELL",
+      "confidence": 54.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -8.89,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "1STPRIMFMF",
+      "score": 2.68,
+      "signal": "STRONG_SELL",
+      "confidence": 54.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -6.34,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "BDTHAI",
+      "score": 2.68,
+      "signal": "STRONG_SELL",
+      "confidence": 66.6,
+      "risk": "HIGH",
+      "price_change_pct": -3.08,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "GSPFINANCE",
+      "score": 2.68,
+      "signal": "STRONG_SELL",
+      "confidence": 54.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.44,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "METROSPIN",
+      "score": 2.68,
+      "signal": "STRONG_SELL",
+      "confidence": 54.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.21,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "TRUSTB1MF",
+      "score": 2.68,
+      "signal": "STRONG_SELL",
+      "confidence": 66.6,
+      "risk": "HIGH",
+      "price_change_pct": -3.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "BBS",
+      "score": 2.67,
+      "signal": "STRONG_SELL",
+      "confidence": 54.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.94,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "SILVAPHL",
+      "score": 2.67,
+      "signal": "STRONG_SELL",
+      "confidence": 66.6,
+      "risk": "HIGH",
+      "price_change_pct": -4.31,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "PRIME1ICBA",
+      "score": 2.65,
+      "signal": "STRONG_SELL",
+      "confidence": 66.8,
+      "risk": "HIGH",
+      "price_change_pct": -6.38,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "SHEPHERD",
+      "score": 2.63,
+      "signal": "STRONG_SELL",
+      "confidence": 67.0,
+      "risk": "HIGH",
+      "price_change_pct": -8.75,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "ALIF",
+      "score": 2.6,
+      "signal": "STRONG_SELL",
+      "confidence": 55.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.0,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "FEKDIL",
+      "score": 2.6,
+      "signal": "STRONG_SELL",
+      "confidence": 55.2,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.4,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "MIDLANDBNK",
+      "score": 2.6,
+      "signal": "STRONG_SELL",
+      "confidence": 67.2,
+      "risk": "HIGH",
+      "price_change_pct": -2.92,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "SAIHAMTEX",
+      "score": 2.58,
+      "signal": "STRONG_SELL",
+      "confidence": 55.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.03,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "TALLUSPIN",
+      "score": 2.58,
+      "signal": "STRONG_SELL",
+      "confidence": 55.4,
+      "risk": "MEDIUM",
+      "price_change_pct": -3.61,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "ICBEPMF1S1",
+      "score": 2.56,
+      "signal": "STRONG_SELL",
+      "confidence": 55.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -6.9,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "MIDASFIN",
+      "score": 2.56,
+      "signal": "STRONG_SELL",
+      "confidence": 67.5,
+      "risk": "HIGH",
+      "price_change_pct": -3.28,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "TUNGHAI",
+      "score": 2.56,
+      "signal": "STRONG_SELL",
+      "confidence": 55.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -6.25,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "PHOENIXFIN",
+      "score": 2.55,
+      "signal": "STRONG_SELL",
+      "confidence": 55.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -4.65,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, healthy rsi strength"
+    },
+    {
+      "symbol": "UNIONCAP",
+      "score": 2.51,
+      "signal": "STRONG_SELL",
+      "confidence": 55.9,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.77,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "GOLDENSON",
+      "score": 2.46,
+      "signal": "STRONG_SELL",
+      "confidence": 68.3,
+      "risk": "HIGH",
+      "price_change_pct": -6.41,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal"
+    },
+    {
+      "symbol": "PRIMEFIN",
+      "score": 2.44,
+      "signal": "STRONG_SELL",
+      "confidence": 56.5,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.13,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "APOLOISPAT",
+      "score": 2.42,
+      "signal": "STRONG_SELL",
+      "confidence": 56.6,
+      "risk": "MEDIUM",
+      "price_change_pct": -5.41,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure"
+    },
+    {
+      "symbol": "LRGLOBMF1",
+      "score": 2.18,
+      "signal": "STRONG_SELL",
+      "confidence": 70.6,
+      "risk": "HIGH",
+      "price_change_pct": -5.88,
+      "volume_ratio": 1.0,
+      "explanation": "Bearish pressure, weak rsi signal, high confidence setup"
+    }
+  ]
+}

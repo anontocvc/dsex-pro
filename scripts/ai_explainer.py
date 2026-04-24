@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def generate_explanation(stock):
     """
     Generate human-readable explanation for a stock
@@ -37,7 +36,6 @@ def generate_explanation(stock):
     # Combine
     explanation = ", ".join(reasons)
 
-=======
 def generate_explanation(stock):
     """
     Generate human-readable explanation for a stock
@@ -76,5 +74,4 @@ def generate_explanation(stock):
     # Combine
     explanation = ", ".join(reasons)
 
->>>>>>> ba7e25db86fb7ea4f7076427091104d359f89ae4
     return explanation.capitalize()

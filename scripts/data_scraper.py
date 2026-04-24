@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import json
 import pandas as pd
@@ -24,9 +23,7 @@ def get_today_data():
         return json.load(f)
 
 
-# ===================================
 # 🔥 CORE: REAL HISTORY BUILDER
-# ===================================
 def update_history(symbol, stock_data):
     os.makedirs(HISTORY_DIR, exist_ok=True)
 
@@ -38,9 +35,7 @@ def update_history(symbol, stock_data):
         "volume": stock_data["Volume"]
     }
 
-    # =========================
     # IF FILE EXISTS
-    # =========================
     if os.path.exists(file_path):
         df = pd.read_csv(file_path)
 
@@ -60,16 +55,13 @@ def update_history(symbol, stock_data):
     df.to_csv(file_path, index=False)
 
     return df
-=======
 import requests
 from bs4 import BeautifulSoup
 import random
 from database import load_history
 
 
-# ==========================================
 # FETCH LIVE DSE DATA
-# ==========================================
 def get_dse_data():
     url = "https://www.dsebd.org/latest_share_price_scroll_l.php"
 
@@ -114,9 +106,7 @@ def get_dse_data():
         return get_fallback_data()
 
 
-# ==========================================
 # HISTORICAL DATA FROM DATABASE
-# ==========================================
 def get_price_history(symbol):
     prices = load_history(symbol)
 
@@ -128,9 +118,7 @@ def get_price_history(symbol):
     return generate_fake_history()
 
 
-# ==========================================
 # FAKE DATA (TEMP)
-# ==========================================
 def generate_fake_history():
     base = random.uniform(50, 300)
     prices = []
@@ -143,9 +131,7 @@ def generate_fake_history():
     return prices
 
 
-# ==========================================
 # FALLBACK (IF SCRAPER FAILS)
-# ==========================================
 def get_fallback_data():
     print("⚠️ Using fallback demo data")
 
@@ -154,4 +140,3 @@ def get_fallback_data():
         {"symbol": "BEXIMCO", "name": "Beximco", "close": 90, "prev_close": 88, "volume": 500000},
         {"symbol": "SQURPHARMA", "name": "Square Pharma", "close": 235, "prev_close": 230, "volume": 300000}
     ]
->>>>>>> ba7e25db86fb7ea4f7076427091104d359f89ae4

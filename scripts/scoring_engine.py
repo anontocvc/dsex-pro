@@ -1,13 +1,13 @@
-<<<<<<< HEAD
+
 def score_stock(df):
     score = 0
 
     last = df.iloc[-1]
     prev = df.iloc[-2]
 
-    # =========================
+    #   
     # TREND (STRONG TREND)
-    # =========================
+    #   
     if last["ema20"] > last["ema50"]:
         score += 2
 
@@ -17,9 +17,9 @@ def score_stock(df):
     else:
         score -= 2
 
-    # =========================
+    #   
     # RSI MOMENTUM
-    # =========================
+    #   
     if 55 < last["rsi"] < 70:
         score += 2
     elif last["rsi"] > 70:
@@ -27,37 +27,37 @@ def score_stock(df):
     elif last["rsi"] < 40:
         score -= 2
 
-    # =========================
+    #   
     # MOMENTUM ACCELERATION
-    # =========================
+    #   
     if last["close"] > prev["close"]:
         score += 1
 
-    # =========================
+    #   
     # BREAKOUT (NEW HIGH)
-    # =========================
+    #   
     if last["close"] >= df["close"].rolling(20).max().iloc[-1]:
         score += 2
 
-    # =========================
+       
     # VOLUME EXPLOSION
-    # =========================
+      
     if last["volume"] > (1.5 * last["vol_ma20"]):
         score += 2
     elif last["volume"] > last["vol_ma20"]:
         score += 1
 
-    # =========================
+    #   
     # WEAK STOCK PENALTY
-    # =========================
+    #   
     if last["close"] < last["ema50"]:
         score -= 2
 
     return score
-=======
+
 """
 DSEX PRO - Advanced Scoring Engine (Step 1)
-============================================
+
 Weighted multi-factor scoring model for Bangladesh stock market.
 Produces: Score (0-10), Signal Strength, Confidence Level
 """
@@ -68,9 +68,9 @@ from dataclasses import dataclass, asdict
 from typing import Optional
 
 
-# ─────────────────────────────────────────────
+#  
 #  DATA STRUCTURES
-# ─────────────────────────────────────────────
+#  
 
 @dataclass
 class StockInput:
@@ -152,9 +152,9 @@ class StockScore:
     volume_ratio: float             # current vol / avg vol
 
 
-# ─────────────────────────────────────────────
+#  
 #  WEIGHT CONFIGURATION
-# ─────────────────────────────────────────────
+#  
 
 WEIGHTS = {
     "trend_strength":   0.20,   # Price momentum & EMA alignment
@@ -172,9 +172,9 @@ WEIGHTS = {
 assert abs(sum(WEIGHTS.values()) - 1.0) < 1e-9, "Weights must sum to 1.0"
 
 
-# ─────────────────────────────────────────────
+#  
 #  FACTOR CALCULATORS  (each returns 0–10)
-# ─────────────────────────────────────────────
+#  
 
 def _score_trend_strength(d: StockInput) -> float:
     """
@@ -307,9 +307,9 @@ def _score_market_context(d: StockInput) -> float:
     return round((d.dsex_trend + 1) / 2 * 10, 2)
 
 
-# ─────────────────────────────────────────────
+#  
 #  RISK CALCULATOR
-# ─────────────────────────────────────────────
+#  
 
 def _calculate_risk(d: StockInput, total_score: float) -> tuple[str, float]:
     """
@@ -339,9 +339,9 @@ def _calculate_risk(d: StockInput, total_score: float) -> tuple[str, float]:
     return label, round(risk, 2)
 
 
-# ─────────────────────────────────────────────
+#  
 #  CONFIDENCE CALCULATOR
-# ─────────────────────────────────────────────
+#  
 
 def _calculate_confidence(
     d: StockInput,
@@ -379,9 +379,9 @@ def _calculate_confidence(
     return round(confidence, 1), label
 
 
-# ─────────────────────────────────────────────
+#  
 #  SIGNAL CLASSIFIER
-# ─────────────────────────────────────────────
+#  
 
 def _classify_signal(score: float, confidence: float) -> tuple[str, str]:
     """Convert numeric score + confidence into signal labels."""
@@ -398,9 +398,9 @@ def _classify_signal(score: float, confidence: float) -> tuple[str, str]:
     return signal, strength
 
 
-# ─────────────────────────────────────────────
+#  
 #  MAIN SCORING FUNCTION
-# ─────────────────────────────────────────────
+#  
 
 def score_stock(d: StockInput) -> StockScore:
     """
@@ -478,17 +478,17 @@ def export_json(scores: list[StockScore]) -> str:
     return json.dumps([to_dict(s) for s in scores], indent=2, ensure_ascii=False)
 
 
-# ─────────────────────────────────────────────
+#  
 #  UTILITY
-# ─────────────────────────────────────────────
+#  
 
 def _clamp(val: float, lo: float, hi: float) -> float:
     return max(lo, min(hi, val))
 
 
-# ─────────────────────────────────────────────
+#  
 #  DEMO / TEST
-# ─────────────────────────────────────────────
+#  
 
 if __name__ == "__main__":
     # Sample stocks (replace with real data from DSE API)
@@ -563,4 +563,4 @@ if __name__ == "__main__":
     print(f"\n{'='*65}")
     print(f"  JSON export preview (first stock):")
     print(export_json(results[:1]))
->>>>>>> ba7e25db86fb7ea4f7076427091104d359f89ae4
+ 

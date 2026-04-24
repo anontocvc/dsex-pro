@@ -1,6 +1,5 @@
 """
 DSEX PRO - Event Detection System (Step 3) + Stock Rating System (Step 4)
-==========================================================================
 
 STEP 3: Detects and classifies:
   - Dividend announcements
@@ -26,9 +25,9 @@ from datetime import date, timedelta
 import math
 
 
-# ─────────────────────────────────────────────
+#  
 #  STEP 3: EVENT DETECTION
-# ─────────────────────────────────────────────
+#  
 
 # Event type constants
 class EventType:
@@ -196,9 +195,9 @@ def build_event_summary(symbol: str, events: list) -> EventSummary:
     )
 
 
-# ─────────────────────────────────────────────
+#  
 #  STEP 4: STOCK RATING SYSTEM
-# ─────────────────────────────────────────────
+#  
 
 GRADE_MAP = [
     (9.0, "A+", "EXCEPTIONAL"),
@@ -418,16 +417,16 @@ def build_stock_rating(
     )
 
 
-# ─────────────────────────────────────────────
+#  
 #  DEMO
-# ─────────────────────────────────────────────
+#  
 
 if __name__ == "__main__":
     today = date.today().isoformat()
     tomorrow = (date.today() + timedelta(days=1)).isoformat()
     next_week = (date.today() + timedelta(days=7)).isoformat()
 
-    # ── Sample events ─────────────────────────────────────────────
+    # ── Sample events  
     squrpharma_events = [
         create_event(EventType.DIVIDEND, "SQURPHARMA",
                      "Cash Dividend Declared — 35%",
@@ -495,7 +494,7 @@ if __name__ == "__main__":
     ratings = [build_stock_rating(s, e, atr_pct=2.2)
                for s, e in zip(scored, event_summaries)]
 
-    # ── Print output ──────────────────────────────────────────────
+    # ── Print output  ─
     print("=" * 70)
     print("  DSEX PRO — STEP 3: EVENT DETECTION + STEP 4: RATING SYSTEM")
     print("=" * 70)

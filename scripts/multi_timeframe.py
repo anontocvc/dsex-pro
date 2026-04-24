@@ -1,6 +1,5 @@
 """
 DSEX PRO — Step 5: Multi-Timeframe Analysis Engine
-====================================================
 Generates:
   - Next Day Signal    (intraday momentum + gap analysis)
   - Next Week Outlook  (trend continuation + event calendar)

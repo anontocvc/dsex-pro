@@ -1,6 +1,6 @@
 """
 DSEX PRO - AI Analysis Generator (Step 2)
-==========================================
+  =
 Converts scored stock data into human-like professional insights.
 Explains WHY a stock is bullish/bearish with structured reasoning.
 
@@ -22,9 +22,9 @@ import json
 # For portability, key types are re-defined inline below.
 
 
-# ─────────────────────────────────────────────
+#  
 #  OUTPUT STRUCTURE
-# ─────────────────────────────────────────────
+#  
 
 @dataclass
 class AIAnalysis:
@@ -49,9 +49,9 @@ class AIAnalysis:
     volume_ratio: float
 
 
-# ─────────────────────────────────────────────
+#  
 #  LANGUAGE TEMPLATES
-# ─────────────────────────────────────────────
+#  
 
 # Factor descriptions (bullish & bearish versions)
 FACTOR_LANG = {
@@ -224,9 +224,9 @@ OUTLOOK_MAP = {
 }
 
 
-# ─────────────────────────────────────────────
+#  
 #  DRIVER EXTRACTOR
-# ─────────────────────────────────────────────
+#  
 
 def _get_top_drivers(breakdown: dict, stock_data: dict, n: int = 3) -> list:
     """
@@ -269,9 +269,9 @@ def _get_top_drivers(breakdown: dict, stock_data: dict, n: int = 3) -> list:
     return drivers
 
 
-# ─────────────────────────────────────────────
+#  
 #  SUMMARY BUILDER
-# ─────────────────────────────────────────────
+#  
 
 def _build_summary(signal: str, score: float, confidence: float,
                    drivers: list, stock_data: dict) -> str:
@@ -322,9 +322,9 @@ def _build_summary(signal: str, score: float, confidence: float,
     return f"{s1} {s2} {s3}"
 
 
-# ─────────────────────────────────────────────
+#  
 #  MAIN GENERATOR
-# ─────────────────────────────────────────────
+#  
 
 def generate_analysis(scored_stock: dict) -> AIAnalysis:
     """
@@ -400,9 +400,9 @@ def export_analysis_json(analyses: list) -> str:
     return json.dumps([asdict(a) for a in analyses], indent=2, ensure_ascii=False)
 
 
-# ─────────────────────────────────────────────
+#  
 #  DEMO
-# ─────────────────────────────────────────────
+#  
 
 if __name__ == "__main__":
     # Simulate Step 1 output

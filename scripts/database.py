@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import json
 from datetime import datetime
@@ -6,9 +5,7 @@ from datetime import datetime
 DATA_PATH = "../data"
 
 
-# ==========================================
 # SAVE DAILY DATA
-# ==========================================
 def save_daily_data(stocks):
     os.makedirs(DATA_PATH, exist_ok=True)
 
@@ -21,9 +18,7 @@ def save_daily_data(stocks):
     print(f"💾 Saved daily data: {today}")
 
 
-# ==========================================
 # LOAD HISTORICAL DATA
-# ==========================================
 def load_history(symbol, days=120):
     if not os.path.exists(DATA_PATH):
         return []
@@ -43,7 +38,6 @@ def load_history(symbol, days=120):
         except:
             continue
 
-=======
 import os
 import json
 from datetime import datetime
@@ -51,9 +45,7 @@ from datetime import datetime
 DATA_PATH = "../data"
 
 
-# ==========================================
 # SAVE DAILY DATA
-# ==========================================
 def save_daily_data(stocks):
     os.makedirs(DATA_PATH, exist_ok=True)
 
@@ -66,9 +58,7 @@ def save_daily_data(stocks):
     print(f"💾 Saved daily data: {today}")
 
 
-# ==========================================
 # LOAD HISTORICAL DATA
-# ==========================================
 def load_history(symbol, days=120):
     if not os.path.exists(DATA_PATH):
         return []
@@ -88,5 +78,4 @@ def load_history(symbol, days=120):
         except:
             continue
 
->>>>>>> ba7e25db86fb7ea4f7076427091104d359f89ae4
     return prices

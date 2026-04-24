@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import json
 import os
 from datetime import datetime
@@ -35,7 +34,6 @@ def is_today(timestamp):
         cache_date = datetime.fromisoformat(timestamp).date()
         return cache_date == datetime.today().date()
     except:
-=======
 import json
 import os
 from datetime import datetime
@@ -72,5 +70,4 @@ def is_today(timestamp):
         cache_date = datetime.fromisoformat(timestamp).date()
         return cache_date == datetime.today().date()
     except:
->>>>>>> ba7e25db86fb7ea4f7076427091104d359f89ae4
         return False

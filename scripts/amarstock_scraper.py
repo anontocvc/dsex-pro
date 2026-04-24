@@ -4,16 +4,12 @@ import os
 import time
 import random
 
-# =========================
 # PATH SETUP (IMPORTANT)
-# =========================
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SAVE_PATH = os.path.join(BASE_DIR, "data", "history")
 
 
-# =========================
 # FETCH DATA (API / FALLBACK)
-# =========================
 def fetch_stock(symbol):
     print(f"📡 Fetching {symbol}...")
 
@@ -41,9 +37,7 @@ def fetch_stock(symbol):
         return generate_sample_data(symbol)
 
 
-# =========================
 # FALLBACK DATA (TEMP)
-# =========================
 def generate_sample_data(symbol):
     data = []
     price = random.uniform(50, 300)
@@ -62,9 +56,7 @@ def generate_sample_data(symbol):
     return data
 
 
-# =========================
 # SAVE CSV (FIXED PATH)
-# =========================
 def save_csv(symbol, data):
     os.makedirs(SAVE_PATH, exist_ok=True)
 
@@ -78,9 +70,7 @@ def save_csv(symbol, data):
     print(f"✅ Saved {symbol} → {file_path}")
 
 
-# =========================
 # MAIN RUNNER
-# =========================
 def run():
     stocks = [
         "GP",
@@ -99,8 +89,6 @@ def run():
         time.sleep(1)
 
 
-# =========================
 # ENTRY POINT
-# =========================
 if __name__ == "__main__":
     run()

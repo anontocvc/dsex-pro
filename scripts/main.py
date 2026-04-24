@@ -1,114 +1,3 @@
-<<<<<<< HEAD
-import os
-import pandas as pd
-
-from indicators import apply_indicators
-from scoring_engine import score_stock
-
-
-DATA_PATH = "data/history"
-
-
-# ==============================
-# LOAD DATA
-# ==============================
-def load_stock_data():
-    stocks = {}
-
-    for file in os.listdir(DATA_PATH):
-        if file.endswith(".csv"):
-            symbol = file.replace(".csv", "")
-
-            path = os.path.join(DATA_PATH, file)
-
-            try:
-                df = pd.read_csv(path)
-
-                # 🔥 REQUIRED CHECK
-                if len(df) < 30:
-                    print(f"❌ {symbol} skipped (not enough data)")
-                    continue
-
-                # ensure numeric
-                df["close"] = pd.to_numeric(df["close"], errors="coerce")
-                df["volume"] = pd.to_numeric(df["volume"], errors="coerce")
-
-                df = df.dropna()
-
-                print(f"🔎 {symbol} → rows: {len(df)}")
-
-                stocks[symbol] = df
-
-            except Exception as e:
-                print(f"❌ Error loading {symbol}: {e}")
-
-    print(f"\n✅ Loaded stocks: {len(stocks)}")
-    return stocks
-
-
-# ==============================
-# ANALYZE
-# ==============================
-def analyze_stocks(stocks):
-    results = []
-
-    for symbol, df in stocks.items():
-
-        try:
-            df = apply_indicators(df)
-
-            score = score_stock(df)
-
-            last_price = df["close"].iloc[-1]
-
-            results.append({
-                "symbol": symbol,
-                "score": score,
-                "price": last_price
-            })
-
-        except Exception as e:
-            print(f"❌ {symbol} analysis error: {e}")
-
-    return results
-
-
-# ==============================
-# PRINT RESULT
-# ==============================
-def print_summary(results):
-    if not results:
-        print("❌ No results")
-        return
-
-    results = sorted(results, key=lambda x: x["score"], reverse=True)
-
-    print("\n🔥 TOP STOCKS 🔥\n")
-
-    for r in results[:20]:
-        print(f"{r['symbol']} | Score: {r['score']} | Price: {round(r['price'],2)}")
-
-    print(f"\n📊 Total analyzed: {len(results)}")
-
-
-# ==============================
-# RUN
-# ==============================
-def run():
-    stocks = load_stock_data()
-
-    if not stocks:
-        print("❌ No valid stock data found")
-        return
-
-    results = analyze_stocks(stocks)
-
-    print_summary(results)
-
-
-if __name__ == "__main__":
-    run()
-=======
 import os
 import json
 
@@ -121,9 +10,7 @@ from high_impact import detect_high_impact
 from ai_explainer import generate_explanation
 
 
-# ==========================================
 # SAFE FUNCTION
-# ==========================================
 def safe_value(val, default=0):
     try:
         return float(val)
@@ -131,9 +18,7 @@ def safe_value(val, default=0):
         return default
 
 
-# ==========================================
 # SAVE OUTPUT
-# ==========================================
 def save_output(results):
     os.makedirs("../output", exist_ok=True)
 
@@ -147,7 +32,6 @@ def save_output(results):
     }
 
     for r in results:
-        # Full stock data
         data["all_stocks"].append({
             "symbol": r.symbol,
             "score": r.total_score,
@@ -159,7 +43,6 @@ def save_output(results):
             "explanation": generate_explanation(r)
         })
 
-        # High impact
         impact_score, reasons = detect_high_impact(r)
 
         if impact_score >= 2:
@@ -170,34 +53,30 @@ def save_output(results):
                 "explanation": generate_explanation(r)
             })
 
-    # Sort high impact
     data["high_impact"] = sorted(
         data["high_impact"],
         key=lambda x: x["impact_score"],
         reverse=True
     )[:20]
 
-    # Save file
     with open("../output/daily-report.json", "w") as f:
         json.dump(data, f, indent=2)
 
     print("🚀 JSON saved successfully")
 
 
-# ==========================================
 # MAIN
-# ==========================================
 def main():
     print("🚀 Starting system...\n")
 
-    # Fetch live data
     raw_data = get_dse_data()
 
     if not raw_data:
         print("❌ No data fetched")
         return
 
-    # Save daily data to database
+    print(f"📊 DSE data fetched: {len(raw_data)} stocks")
+
     save_daily_data(raw_data)
 
     stocks = []
@@ -212,10 +91,11 @@ def main():
             if close == 0:
                 continue
 
-            # Get historical prices
             prices = get_price_history(symbol)
 
-            # Calculate indicators
+            if not prices or len(prices) < 20:
+                continue
+
             ind = calculate_indicators(prices)
 
             stock = StockInput(
@@ -255,16 +135,35 @@ def main():
             print(f"❌ Error {s.get('symbol','?')}: {e}")
             continue
 
+    print(f"\n📊 Valid stocks for scoring: {len(stocks)}")
+
+    if not stocks:
+        print("❌ No valid stocks for scoring")
+        return
+
     print("\n⚙️ Scoring stocks...\n")
 
     results = score_batch(stocks)
 
+    print(f"📊 Total scored: {len(results)}")
+
+    if not results:
+        print("❌ No results after scoring")
+        return
+
+    # 🔥 TOP 20 PRINT
+    print("\n🔥 TOP STOCKS 🔥\n")
+
+    for r in results[:20]:
+        tag = "🔥" if r.total_score >= 5 else "⚠️" if r.total_score >= 3 else "❌"
+
+        print(f"{tag} {r.symbol} | Score: {r.total_score} | Signal: {r.signal}")
+
     save_output(results)
 
+    print("\n✅ DONE\n")
 
-# ==========================================
+
 # RUN
-# ==========================================
 if __name__ == "__main__":
     main()
->>>>>>> ba7e25db86fb7ea4f7076427091104d359f89ae4

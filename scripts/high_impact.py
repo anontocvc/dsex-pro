@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def detect_high_impact(stock):
     """
     Detect high-impact stocks based on multiple signals
@@ -38,7 +37,6 @@ def detect_high_impact(stock):
         score += 1
         reasons.append("High confidence")
 
-=======
 def detect_high_impact(stock):
     """
     Detect high-impact stocks based on multiple signals
@@ -78,5 +76,4 @@ def detect_high_impact(stock):
         score += 1
         reasons.append("High confidence")
 
->>>>>>> ba7e25db86fb7ea4f7076427091104d359f89ae4
     return score, reasons

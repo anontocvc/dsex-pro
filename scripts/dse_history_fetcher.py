@@ -12,9 +12,7 @@ import time
 import gc
 from datetime import datetime
 
-# ==============================
 # CONFIG
-# ==============================
 BASE_URL = "https://www.dsebd.org/day_end_archive.php"
 DATA_PATH = "data/history"
 
@@ -24,9 +22,7 @@ START_DATE = "01-05-2025"
 END_DATE = datetime.today().strftime("%d-%m-%Y")
 
 
-# ==============================
 # FETCH FUNCTION
-# ==============================
 def fetch_history(symbol):
     print(f"\n📊 Fetching {symbol}...")
 
@@ -83,21 +79,15 @@ def fetch_history(symbol):
         except Exception:
             return None
 
-    # ==============================
     # TRY 1 (MAIN RANGE)
-    # ==============================
     data = request_data(START_DATE, END_DATE)
 
-    # ==============================
     # TRY 2 (FALLBACK RANGE)
-    # ==============================
     if not data or len(data) < 20:
         print(f"🔁 Retrying {symbol} with extended range...")
         data = request_data("01-01-2024", END_DATE)
 
-    # ==============================
     # FINAL CHECK
-    # ==============================
     if not data or len(data) < 20:
         print(f"⚠️ Skipped {symbol} (no usable data)")
         return None
@@ -110,9 +100,7 @@ def fetch_history(symbol):
     return df
 
 
-# ==============================
 # MAIN RUN
-# ==============================
 def run():
     stock_file = "data/stock_list.txt"
 
@@ -148,8 +136,6 @@ def run():
     print(f"\n🎯 Done. Saved {success} stocks")
 
 
-# ==============================
 # ENTRY
-# ==============================
 if __name__ == "__main__":
     run()

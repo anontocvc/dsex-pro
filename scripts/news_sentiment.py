@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import requests
 from bs4 import BeautifulSoup
 from textblob import TextBlob
@@ -30,7 +29,6 @@ def get_news_sentiment(symbol):
         return score
 
     except:
-=======
 import requests
 from bs4 import BeautifulSoup
 from textblob import TextBlob
@@ -62,5 +60,4 @@ def get_news_sentiment(symbol):
         return score
 
     except:
->>>>>>> ba7e25db86fb7ea4f7076427091104d359f89ae4
         return 0

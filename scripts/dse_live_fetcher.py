@@ -65,9 +65,7 @@ def fetch_dse_data():
             print("❌ No data parsed")
             return None
 
-        # =========================
         # ✅ STEP 1: DATA CLEANING
-        # =========================
 
         print(f"📊 Raw scraped: {len(df)} stocks")
 

@@ -1,13 +1,11 @@
-<<<<<<< HEAD
+
 import pandas as pd
 
 
 def apply_indicators(df):
     df = df.copy()
 
-    # =========================
     # BASIC CLEANING
-    # =========================
     df["close"] = pd.to_numeric(df["close"], errors="coerce")
     df["volume"] = pd.to_numeric(df["volume"], errors="coerce")
 
@@ -16,15 +14,15 @@ def apply_indicators(df):
     if len(df) < 50:
         raise ValueError("Not enough data for indicators")
 
-    # =========================
+    
     # EMA (TREND)
-    # =========================
+
     df["ema20"] = df["close"].ewm(span=20, adjust=False).mean()
     df["ema50"] = df["close"].ewm(span=50, adjust=False).mean()
 
-    # =========================
+    
     # RSI (MOMENTUM)
-    # =========================
+ 
     delta = df["close"].diff()
 
     gain = delta.clip(lower=0)
@@ -37,18 +35,18 @@ def apply_indicators(df):
 
     df["rsi"] = 100 - (100 / (1 + rs))
 
-    # =========================
+    
     # VOLUME MA
-    # =========================
+   
     df["vol_ma20"] = df["volume"].rolling(20).mean()
 
-    # =========================
+   
     # PRICE MOMENTUM
-    # =========================
+   
     df["price_change"] = df["close"].pct_change()
 
     return df
-=======
+
 import pandas as pd
 
 
@@ -85,4 +83,4 @@ def calculate_indicators(prices):
         "bb_upper": prices[-1] * 1.1,
         "bb_lower": prices[-1] * 0.9
     }
->>>>>>> ba7e25db86fb7ea4f7076427091104d359f89ae4
+

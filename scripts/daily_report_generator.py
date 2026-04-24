@@ -1,6 +1,5 @@
 """
 DSEX PRO — Step 6: Upgraded daily-report.json Generator
-=========================================================
 Produces the master JSON that powers:
   - GitHub Actions daily pipeline
   - Chrome Extension (Step 7)

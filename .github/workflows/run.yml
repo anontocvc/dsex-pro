@@ -3,7 +3,7 @@ name: Daily Stock System
 on:
 workflow_dispatch:   # manual run
 schedule:
-- cron: "0 3 * * *"   # runs daily at 3 AM UTC (9 AM Bangladesh)
+- cron: "0 3 * * *"   # daily at 3 AM UTC (≈9 AM Bangladesh)
 
 jobs:
 run:
@@ -14,6 +14,8 @@ steps:
   # 1. Checkout repo
   - name: Checkout code
     uses: actions/checkout@v4
+    with:
+      persist-credentials: true
 
   # 2. Setup Python
   - name: Setup Python
@@ -31,14 +33,14 @@ steps:
   - name: Run Stock System
     run: python scripts/main.py
 
-  # 5. Commit & push output (FIXED VERSION)
+  # 5. Commit & push ONLY the report (clean method)
   - name: Commit & Push Report
     run: |
       git config user.name "github-actions"
       git config user.email "actions@github.com"
 
-      git add -f output/
-      git commit -m "auto update daily report" || echo "no changes"
+      git add output/daily-report.json
+      git diff --cached --quiet && echo "no changes" || git commit -m "auto update daily report"
 
       git push
 ```

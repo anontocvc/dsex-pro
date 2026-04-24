@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def generate_predictions(results):
     bullish = []
     bearish = []
@@ -22,4 +23,30 @@ def generate_predictions(results):
     bullish = sorted(bullish, key=lambda x: x["score"], reverse=True)[:20]
     bearish = sorted(bearish, key=lambda x: x["score"])[:20]
 
+=======
+def generate_predictions(results):
+    bullish = []
+    bearish = []
+
+    for r in results:
+
+        # ✅ relaxed condition
+        if r.signal in ["BUY", "STRONG_BUY"]:
+            bullish.append({
+                "symbol": r.symbol,
+                "score": r.total_score,
+                "confidence": r.confidence
+            })
+
+        if r.signal in ["SELL", "STRONG_SELL"]:
+            bearish.append({
+                "symbol": r.symbol,
+                "score": r.total_score,
+                "confidence": r.confidence
+            })
+
+    bullish = sorted(bullish, key=lambda x: x["score"], reverse=True)[:20]
+    bearish = sorted(bearish, key=lambda x: x["score"])[:20]
+
+>>>>>>> ba7e25db86fb7ea4f7076427091104d359f89ae4
     return bullish, bearish

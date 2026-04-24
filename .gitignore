@@ -2,7 +2,10 @@ __pycache__/
 *.pyc
 
 data/
+
+# ignore all
 output/*
-!output/daily-report.json
-*.csv
-*.json
+
+# BUT allow these
+!output/latest.json
+!output/*.json

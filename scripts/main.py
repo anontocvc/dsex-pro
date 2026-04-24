@@ -1,5 +1,8 @@
+print("🔥 NEW VERSION RUNNING")
+
 import os
 import json
+from datetime import datetime
 
 from data_scraper import get_dse_data, get_price_history
 from database import save_daily_data
@@ -10,7 +13,9 @@ from high_impact import detect_high_impact
 from ai_explainer import generate_explanation
 
 
+# =========================
 # SAFE FUNCTION
+# =========================
 def safe_value(val, default=0):
     try:
         return float(val)
@@ -18,13 +23,31 @@ def safe_value(val, default=0):
         return default
 
 
-# SAVE OUTPUT
+# =========================
+# SAVE OUTPUT (FIXED PATH ✅)
+# =========================
 def save_output(results):
-    os.makedirs("../output", exist_ok=True)
+    # 🔥 ABSOLUTE PATH FIX (IMPORTANT)
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    OUTPUT_DIR = os.path.join(BASE_DIR, "output")
+
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+    print(f"📁 OUTPUT DIR: {OUTPUT_DIR}")
+
+    # DATE
+    today = datetime.now().strftime("%Y-%m-%d")
+    timestamp = datetime.now().isoformat()
+
+    # FILE PATHS
+    daily_file = os.path.join(OUTPUT_DIR, f"{today}.json")
+    latest_file = os.path.join(OUTPUT_DIR, "latest.json")
 
     bullish_pred, bearish_pred = generate_predictions(results)
 
     data = {
+        "date": today,
+        "timestamp": timestamp,
         "top_bullish": bullish_pred,
         "top_bearish": bearish_pred,
         "high_impact": [],
@@ -53,19 +76,28 @@ def save_output(results):
                 "explanation": generate_explanation(r)
             })
 
+    # SORT HIGH IMPACT
     data["high_impact"] = sorted(
         data["high_impact"],
         key=lambda x: x["impact_score"],
         reverse=True
     )[:20]
 
-    with open("../output/daily-report.json", "w") as f:
+    # SAVE DAILY
+    with open(daily_file, "w") as f:
         json.dump(data, f, indent=2)
 
-    print("🚀 JSON saved successfully")
+    # SAVE LATEST
+    with open(latest_file, "w") as f:
+        json.dump(data, f, indent=2)
+
+    print(f"✅ Saved daily: {daily_file}")
+    print(f"✅ Updated latest: {latest_file}")
 
 
+# =========================
 # MAIN
+# =========================
 def main():
     print("🚀 Starting system...\n")
 
@@ -151,12 +183,11 @@ def main():
         print("❌ No results after scoring")
         return
 
-    # 🔥 TOP 20 PRINT
+    # TOP 20
     print("\n🔥 TOP STOCKS 🔥\n")
 
     for r in results[:20]:
         tag = "🔥" if r.total_score >= 5 else "⚠️" if r.total_score >= 3 else "❌"
-
         print(f"{tag} {r.symbol} | Score: {r.total_score} | Signal: {r.signal}")
 
     save_output(results)

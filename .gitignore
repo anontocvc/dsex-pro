@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 
 data/
-
+output/*
+!output/daily-report.json
 *.csv
 *.json
